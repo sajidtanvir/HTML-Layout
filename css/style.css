@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+}
+.logo{
+width: 20%;
+background-color: aqua;
+float: left;
+height: 100px;
+}
+.logo h1{
+color: black;
+text-align: center;
+padding: 30px;
+}
+.banner{
+background-color: blue;
+width: 80%;
+float:right;
+height: 100px;
+}
+.banner h1{
+color: rgb(255, 255, 255);
+text-align: center;
+padding: 30px;
+}
+.bar{
+    background-color: brown;
+    height: 50px;
+    text-align: center;
+}
+.bar h1{
+    color: white;
+    padding-top: 4px;
+}
+.article{
+    overflow: hidden;
+}
+.left{
+width: 20%;
+height: 600px;
+background-color: teal;
+float: left;
+text-align: center
+
+}
+
+.left h1{
+    padding: 200px;
+}
+.center{
+    width: 60%;
+    height: 600px;
+    background-color: thistle;
+    float: left;
+}
+.right{
+    width: 20%;
+    height: 600px;
+    background-color: seagreen;
+    float: right;
+    text-align: center;
+}
+.right h1{
+    padding: 200px;
+}
+.center-top{
+background-color: seashell;
+height: 200px;
+}
+.center-center{
+background-color: skyblue;
+height: 200px;
+overflow: hidden;
+}
+.center-bottom{
+background-color: slategray;
+height: 200px;
+}
+.center-left{
+    width: 50%;
+    height: 100%;
+    background-color: tomato;
+    float: left;
+}
+.center-right{
+    width: 50%;
+    height: 100%;
+    background-color: wheat;
+    float: right;
+}
+.footer{
+    background-color: blue;
+    text-align: center;
+    height: 100px;
+}
+.footer h1{
+padding: 30px;
+color: white;
+}
